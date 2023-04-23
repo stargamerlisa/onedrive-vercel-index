@@ -53,7 +53,7 @@ module.exports = {
   links: [
     {
       name: 'discord',
-      link: 'discordapp.com/users/919246548213313607',
+      link: 'https://www.discordapp.com/users/919246548213313607',
     },
   ],
 
